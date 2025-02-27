@@ -3,6 +3,7 @@
 Swarnaditya Maity
 
 **Email:** swarnaditya.maity@gmail.com
+
 **Phone:** +919932666168
 
 Engineering Technology Lead at Accenture Banking and Insurence Consulting unit, has been working in the finance field for 12+ years and has multiple years of experience from insurance and banking has gained deep and practical insights from insurance sector as well as Platform/DevOps/SRE, Cloud/On-Prem Orchestration, Mobile and Remote Access. 
@@ -26,7 +27,7 @@ Engineering Technology Lead at Accenture Banking and Insurence Consulting unit, 
 
 ### Accenture, Custom Software Engineer Lead (Present)
 
-- Cloud Mordernization (https://www.openbanking.org.uk/)
+- Cloud Mordernization .(https://www.openbanking.org.uk/).
 - Responsible for 100% uptime, scalability, and reliability for 40+ WebSphere Liberty Applications (WLP) using container orchestration platforms hosted in AKS.
 - Ensured 100% uptime, scalability, and reliability for 90+ Java SpringBoot microservices and 47+ APIs (APIGEE) using container as a service platform and maintained the pipelines hosted in AKS.
 - IaC Automation using Terraform and Config Mgmt. Ansible, Chef.
@@ -35,14 +36,14 @@ Engineering Technology Lead at Accenture Banking and Insurence Consulting unit, 
 
 ### TCS, IT Analyst (30 months)
 
-- Built a Smart Audit Platform with bot features using Azure Cloud and GitLab. (https://kpmg.com/xx/en/what-we-do/services/audit/kpmg-clara.html)
+- Built a Smart Audit Platform with bot features using Azure Cloud and GitLab. .(https://kpmg.com/xx/en/what-we-do/services/audit/kpmg-clara.html).
 - Responsible for building and maintaining infrastructure with model training/serving, deploying models using Kubeflow.
 - Conducted DevOps assessments with multiple clients.
 - Managed different RFI/RFC and Cloud/DevOps PoC/MVP demos.
 - 
 - Designed Unified DevOps Led Architecture incorporating People, Process, and Technology.
 
-### Deutsche Bank, Senior Analyst (18 months) (https://dbras.db.com/)
+### Deutsche Bank, Senior Analyst (18 months) .(https://dbras.db.com/).
 
 - Developed, maintained, and operated 98k+ mobile devices (BYOD + Corporate) with MobileIron and Blackberry Works.
 - Built corporate MacBooks using Jamf.

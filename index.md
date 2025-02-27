@@ -8,7 +8,7 @@
 
 ### Professional Summary
 
-Engineering Technology Lead at Accenture Banking and Insurance Consulting unit with over 12 years of experience in the finance field, including multiple years in insurance and banking. Possesses extensive expertise in various technologies and tools, ensuring 100% uptime, scalability, and reliability of critical applications and services.
+Custom Software Engineering Technology Lead at Accenture with over 12 years of expertise in finance, banking, and insurance. Specializes in enterprise platform technologies—cloud, containerization, mobile, and remote access—delivering 100% uptime and scalability for mission-critical applications and distributed systems.
 
 ## Tools and Technology
 

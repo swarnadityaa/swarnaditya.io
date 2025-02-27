@@ -1,0 +1,51 @@
+# Profile Summary 
+
+Engineering Technology Lead at Accenture Insurance Strategy & Consulting unithas been working in the finance field for 12+ years and has multiple years of experience from insurance and banking has gained deep and practical insights from insurance sector as well as Platform/DevOps/SRE, Cloud/On-Prem Orchestration, Mobile and Remote Access
+
+
+### Tools and Technology 
+Unix & Windows
+SCM: Gitlab/GitHub
+Container : Docker/containerD
+Kubernetes
+Elasticsearch/Dynatrace/AppDynamics
+Grafana/Prometheus
+Package : Helm
+IaC: Terraform/Ansible/ Chef
+CICD: Harness/CBJ/BuildKite
+Azure/Amazon/Google/OpenShift (Cloud Container Platform) 
+OCP On-Prem
+
+
+Accenture, Custom Software Enginner Lead: Present
+Responsible for 100% uptime and scalability and reliability for 40+ different WebSphere Liberty Application,  (WLP) using container orchestrations platform which is hosted in AKS
+Responsible for 100% uptime and scalability and reliability for 90+ Java SpringBoot microservices and 47+ API (APIGEE) using container as a service platform and maintainer of the pipelines which is hosted in AWS EKS and OpenShift
+IaC Automation using Terraform and Config Mgmt. Ansible, Chef experience 
+Tool Migration completed from CBJ to Harness
+Experience in DevOps and Site reliability engineering (SRE) Models. Built CI/CD, Issues detections using ELK stack, Grafana, Prometheus, Dynatrace 
+
+TCS, IT Analyst: 30 months
+Building Smart Audit Platform with bot feature using Azure Cloud, Gitlab
+Responsible for building and maintain the infrastructure with model training/ serving deploying model using Kubeflow
+Exposed in DevOps Assessment with Multiple Client
+Responsible for different RFI/RFC and Cloud/DevOps PoC Demo
+Designed Unified DevOps Led Architecture with 3 different aspects: People Process and Technology
+
+
+Duetsche Bank, Senior Analyst:18 months
+Responsible for development maintaining and operation 98k+ Mobile Device (BYOD+ Corporate) with MobileIron and Blackberry Works
+Responsible for bank build corporate MacBook using Jamf
+AppleTV tvOS development for presenting corporate presentation. 
+Dedicated member to support macOS Remote Access for VIP clients.
+Pulse-Secure VPN & RSA Troubleshooting.
+
+
+Infosys, Senior System Engineer :48 months
+Cloud VM Deployment in Open-Stack
+ARM template/PowerShell Script Deployment in Azure Cloud Component
+Mobile Device/Application Management with XenMobile
+Operation Support for 10+ insurance Application 
+Monitoring Application/Infrastructure Status  
+Building java application using maven
+Unix and Windows Patching Activity 
+Exposed into SQL/PLSQL

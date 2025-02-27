@@ -12,11 +12,11 @@ Engineering Technology Lead at Accenture Banking and Insurance Consulting unit w
 
 ## Tools and Technology
 
-- **Operating Systems:** 🖥️ Unix & Windows
+- **Operating Systems:** 🖥️ Unix/Windows/macOS
 - **Source Control Management:** 🗂️ GitLab/GitHub
-- **Containers:** 🐳 Docker/containerD
+- **Containers:** 🐳 Docker/containerD/podman
 - **Orchestration:** ⚙️ Kubernetes
-- **Monitoring:** 📈 Elasticsearch/Dynatrace/AppDynamics,Grafana/Prometheus
+- **Monitoring:** 📈 Elasticsearch/Dynatrace/AppDynamics/Grafana/Prometheus
 - **Packaging:** 📦 Helm
 - **Infrastructure as Code (IaC):** 🛠️ Terraform/Ansible/Chef
 - **CI/CD:** 🔄 Harness/CBJ/BuildKite

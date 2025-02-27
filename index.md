@@ -1,5 +1,3 @@
-Swarnaditya's Profile Summary
-
 ## Swarnaditya Maity
 
 **Email:** [swarnaditya.maity@gmail.com](mailto:swarnaditya.maity@gmail.com)

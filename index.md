@@ -1,7 +1,10 @@
 # Profile Summary
 
 Swarnaditya Maity
+
 **Email:** swarnaditya.maity@gmail.com
+**Phone:** +919932666168
+
 Engineering Technology Lead at Accenture Banking and Insurence Consulting unit, has been working in the finance field for 12+ years and has multiple years of experience from insurance and banking has gained deep and practical insights from insurance sector as well as Platform/DevOps/SRE, Cloud/On-Prem Orchestration, Mobile and Remote Access. 
 
 
@@ -19,11 +22,11 @@ Engineering Technology Lead at Accenture Banking and Insurence Consulting unit, 
 - Azure/Amazon/Google/OpenShift (Cloud Container Platform)
 - OCP On-Prem
 
-## Experience
+## Industry Experience
 
 ### Accenture, Custom Software Engineer Lead (Present)
 
-- Cloud Mordernization 
+- Cloud Mordernization (https://www.openbanking.org.uk/)
 - Responsible for 100% uptime, scalability, and reliability for 40+ WebSphere Liberty Applications (WLP) using container orchestration platforms hosted in AKS.
 - Ensured 100% uptime, scalability, and reliability for 90+ Java SpringBoot microservices and 47+ APIs (APIGEE) using container as a service platform and maintained the pipelines hosted in AKS.
 - IaC Automation using Terraform and Config Mgmt. Ansible, Chef.

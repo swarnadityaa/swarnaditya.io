@@ -1,14 +1,14 @@
 # Swarnaditya Maity
 
-**Email:** [swarnaditya.maity@gmail.com](mailto:swarnaditya.maity@gmail.com)
+**📧** [swarnaditya.maity@gmail.com](mailto:swarnaditya.maity@gmail.com)
 
-**Phone:** [+91 99326 66168](tel:+919932666168)
+**📞** [+91 99326 66168](tel:+919932666168)
 
 ## Professional Summary
 
 Custom Software Engineering Technology Lead at Accenture with over 12 years of expertise in finance, banking, and insurance. Specializes in enterprise platform technologies—cloud, containerization, mobile, and remote access—delivering 100% uptime and scalability for mission-critical applications and distributed systems.
 
-## Tools and Technology
+## **🛠️** Tools and Technology
 
 - 🖥️ **Operating Systems:** Unix/Windows/macOS
 - 🗂️ **Source Control Management:** GitLab/GitHub
@@ -17,16 +17,17 @@ Custom Software Engineering Technology Lead at Accenture with over 12 years of e
 - ☸️ **Orchestration:** Kubernetes
 - 📈 **Monitoring:** Elasticsearch/Dynatrace/AppDynamics/Grafana/Prometheus
 - 📦 **Packaging:** Helm/Kustomization 
-- 🛠️ **Infrastructure as Code (IaC):** Terraform/Ansible/Chef
+- 🏗️ **Infrastructure as Code (IaC):** Terraform/Ansible/Chef
 - 🔄 **CI/CD:** Harness/CBJ/BuildKite
 - ☁️ **Cloud Platforms:** Azure/Amazon/Google/OpenShift (Cloud Container Platform)
 - 🏠 **On-Premises:** OCP On-Prem
 
-### Industry Experience
+### **👨🏽‍💻** Industry Experience
 
 ### Accenture, Custom Software Engineer Lead [July 2021 - Present]
 
-- Cloud Modernization [Nationwide Building Society](https://www.nationwide.co.uk/)
+- Cloud Modernization [Nationwide Building Society](https://www.nationwide.co.uk/) & [Tryg](https://www.tryg.no/)
+- Active maintainer and Release Train Lead for Enterprise Platform
 - Responsible for 100% uptime, scalability, and reliability for 40+ WebSphere Liberty Applications (WLP) using container orchestration platforms hosted in AKS.
 - Ensured 100% uptime, scalability, and reliability for 90+ Java SpringBoot microservices and 47+ APIs (APIGEE) using container as a service platform and maintained the pipelines hosted in AWS.
 - Ongoing Migration : SAS Onprem to Openshift Cluster which is hosted into Google Cloud
@@ -54,16 +55,15 @@ Custom Software Engineering Technology Lead at Accenture with over 12 years of e
 
 - Cloud VM deployment in OpenStack. 
 - ARM template/PowerShell script deployment in Azure Cloud Component.
-- Managed mobile devices/applications with XenMobile.
+- Managed mobile devices/applications with Citrix XenMobile.
 - Provided operational support for 10+ insurance applications.
-- Monitored application/infrastructure status.
-- Built Java applications using Maven.
+- Monitored application/infrastructure.
 - Conducted Unix and Windows patching activities.
 - Exposed to SQL/PLSQL.
 
-### Education
+### **🏛️** Education
 - BTech, Computer Science Engineering 2008-2012 with 6.6 CGPA
 
-### Hobby
+### **✨** Hobby
 - Philately & Numismatic
-- Photography, travelling and explore Planet Earth 🌎 
+- Photography, travelling and explore the planet🌎 

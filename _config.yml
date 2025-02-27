@@ -1,2 +1,15 @@
 theme: jekyll-theme-architect
 title: Swarnaditya
+
+# User settings
+username: Swarnaditya Maity
+user_description: I'm a Software Engineer from India, always searching for the next challenge; no task is too scary nor too difficult.
+email: swarnaditya.maity@gmail.com
+twitter_username: swarnadityaa
+instagram_username: swarnadityaa
+facebook_username: swarnaditya
+github_username:  swarnadityaa
+
+footer: yes
+footer_url: "https://github.com/swarnadityaa"
+footer_text: "Page design with jekyll  by Swarnaditya"

@@ -27,7 +27,7 @@ Custom Software Engineering Technology Lead at Accenture with over 12 years of e
 
 ### Accenture, Custom Software Engineer Lead (Present)
 
-- Cloud Modernization [Nationwide Building Sociery](https://www.nationwide.co.uk/)
+- Cloud Modernization [Nationwide Building Society](https://www.nationwide.co.uk/)
 - Responsible for 100% uptime, scalability, and reliability for 40+ WebSphere Liberty Applications (WLP) using container orchestration platforms hosted in AKS.
 - Ensured 100% uptime, scalability, and reliability for 90+ Java SpringBoot microservices and 47+ APIs (APIGEE) using container as a service platform and maintained the pipelines hosted in AWS.
 - SAS Viya Onprem to Openshift Cluster which is hosted into Google Cloud.

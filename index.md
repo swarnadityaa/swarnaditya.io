@@ -51,7 +51,7 @@ Custom Software Engineering Technology Lead at Accenture with over 12 years of e
 - Supported macOS Remote Access for VIP clients.
 - Troubleshooting Pulse-Secure VPN & RSA.
 
-### Infosys, Senior System Engineer [June 2014 - June 2017]
+### Infosys, Senior System Engineer [June 2013 - June 2017]
 
 - Cloud VM deployment in OpenStack. 
 - ARM template/PowerShell script deployment in Azure Cloud Component.

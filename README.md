@@ -1,2 +1,2 @@
-# swarnadityaa.github.io
+# swarnaditya.github.io
 Profile homepage of Swarnaditya

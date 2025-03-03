@@ -1,12 +1,17 @@
 # Swarnaditya Maity
 
-**📧** [swarnaditya.maity@gmail.com](mailto:swarnaditya.maity@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=swarnadityaa&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/swarnadityaa?label=Follow&style=social)](https://github.com/swarnadityaa)
 
+**📧** [swarnaditya.maity@gmail.com](mailto:swarnaditya.maity@gmail.com)
 **📞** [+91 99326 66168](tel:+919932666168)
+**🔗** https://github.com/swarnadityaa
+
+![Swarnaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarnadityaa&show_icons=true&theme=radical)
 
 ## Professional Summary
 
-Custom Software Engineering Technology Lead at Accenture with over 12 years of expertise in finance, banking, and insurance. Specializes in enterprise platform technologies—cloud, containerization, mobile, and remote access—delivering 100% uptime and scalability for mission-critical applications and distributed systems.
+Custom Software Engineering Technology Lead at Accenture with over 12 years of expertise in finance, banking, and insurance. Specializes in enterprise platform technologies—cloud, containerization, and more.
 
 ## **🛠️** Tools and Technology
 
@@ -66,4 +71,4 @@ Custom Software Engineering Technology Lead at Accenture with over 12 years of e
 
 ### **✨** Hobby
 - Philately & Numismatic
-- Photography, travelling and explore the planet🌎 
+- Photography, travelling and explore the planetery syetems🌎

@@ -1,7 +1,7 @@
 # Swarnaditya Maity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=swarnadityaa&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/swarnadityaa?label=Follow&style=social)](https://github.com/swarnadityaa)
+[![GitHub followers](https://img.shields.io/github/followers/swarnadityaa?label=Follow&style=social)](https://github.com/swarnaditya)
 
 **📧** [swarnaditya.maity@gmail.com](mailto:swarnaditya.maity@gmail.com)
 **📞** [+91 99326 66168](tel:+919932666168)

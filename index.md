@@ -5,13 +5,13 @@
 
 **📧** [swarnaditya.maity@gmail.com](mailto:swarnaditya.maity@gmail.com)
 **📞** [+91 99326 66168](tel:+919932666168)
-**🔗** https://github.com/swarnadityaa
-
-![Swarnaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarnadityaa&show_icons=true&theme=radical)
 
 ## Professional Summary
 
-Custom Software Engineering Technology Lead at Accenture with over 12 years of expertise in finance, banking, and insurance. Specializes in enterprise platform technologies—cloud, containerization, and more.
+Open-Source enthusiast | Custom Software Engineering Technology Lead @ Accenture
+With 12+ years of expertise in finance, banking, and insurance, I drive enterprise-scale innovation through robust platform engineering. Passionate about open-source communities and collaborative problem-solving, I specialize in architecting mission-critical systems—on-prem, cloud, or hybrid infrastructure—that balance scalability, security, and agility.
+
+As a Technology Lead, I thrive at the intersection of legacy modernization and cutting-edge distributed systems, leveraging open-source solutions to future-proof applications. My focus: delivering resilient, high-performance platforms that transform business.
 
 ## **🛠️** Tools and Technology
 
@@ -29,9 +29,9 @@ Custom Software Engineering Technology Lead at Accenture with over 12 years of e
 
 ### **👨🏽‍💻** Industry Experience
 
-### Accenture, Custom Software Engineer Lead [July 2021 - Present]
+### Accenture, Custom Software Engineer Lead [July 2021 - Present] [Nationwide Building Society](https://www.nationwide.co.uk/) / [Tryg](https://www.tryg.no/)
 
-- Cloud Modernization [Nationwide Building Society](https://www.nationwide.co.uk/) & [Tryg](https://www.tryg.no/)
+- Cloud Modernization & Cost Optimization
 - Active maintainer and Release Train Lead for Enterprise Platform
 - Responsible for 100% uptime, scalability, and reliability for 40+ WebSphere Liberty Applications (WLP) using container orchestration platforms hosted in AKS.
 - Ensured 100% uptime, scalability, and reliability for 90+ Java SpringBoot microservices and 47+ APIs (APIGEE) using container as a service platform and maintained the pipelines hosted in AWS.
@@ -71,4 +71,4 @@ Custom Software Engineering Technology Lead at Accenture with over 12 years of e
 
 ### **✨** Hobby
 - Philately & Numismatic
-- Photography, travelling and explore the planetery syetems🌎
+- Photography, travelling and explore the planetery syetems 🌎

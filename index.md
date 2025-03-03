@@ -13,7 +13,8 @@ With 12+ years of expertise in finance, banking, and insurance, I drive enterpri
 
 As a Technology Lead, I thrive at the intersection of legacy modernization and cutting-edge distributed systems, leveraging open-source solutions to future-proof applications. My focus: delivering resilient, high-performance platforms that transform business.
 
-## **🛠️** Tools and Technology
+## **🛠️** Tools and Technology **🐧**
+
 
 - 🖥️ **Operating Systems:** Unix/Windows/macOS
 - 🗂️ **Source Control Management:** GitLab/GitHub

@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Open-Source enthusiast | Custom Software Engineering Technology Lead @ Accenture
+Open-Source enthusiast | Custom Software Engineering Technology Lead @ [Accenture](https://www.accenture.com/us-en)
 With 12+ years of expertise in finance, banking, and insurance, I drive enterprise-scale innovation through robust platform engineering. Passionate about open-source communities and collaborative problem-solving, I specialize in architecting mission-critical systems—on-prem, cloud, or hybrid infrastructure—that balance scalability, security, and agility.
 
 As a Technology Lead, I thrive at the intersection of legacy modernization and cutting-edge distributed systems, leveraging open-source solutions to future-proof applications. My focus: delivering resilient, high-performance platforms that transform business.
@@ -29,7 +29,7 @@ As a Technology Lead, I thrive at the intersection of legacy modernization and c
 
 ### **👨🏽‍💻** Industry Experience
 
-### Accenture, Custom Software Engineer Lead [July 2021 - Present] [Nationwide Building Society](https://www.nationwide.co.uk/) / [Tryg](https://www.tryg.no/)
+### [Accenture](https://www.accenture.com/us-en) - Custom Software Engineer Lead [July 2021 - Present] [Nationwide Building Society](https://www.nationwide.co.uk/) / [Tryg](https://www.tryg.no/)
 
 - Cloud Modernization & Cost Optimization
 - Active maintainer and Release Train Lead for Enterprise Platform
@@ -40,7 +40,7 @@ As a Technology Lead, I thrive at the intersection of legacy modernization and c
 - Completed tool migration from CBJ to Harness.
 - Experience in DevOps and Site Reliability Engineering (SRE) models, built CI/CD, and detected issues using the ELK stack, Grafana, Prometheus, and Dynatrace.
 
-### TCS, Senior IT Analyst [Jan 2019 - June 2021] [KPMG Clara](https://kpmg.com/xx/en/what-we-do/services/audit/kpmg-clara.html)
+### [TCS](https://www.tcs.com/) - Senior IT Analyst [Jan 2019 - June 2021] [KPMG Clara](https://kpmg.com/xx/en/what-we-do/services/audit/kpmg-clara.html)
 
 - Built a Smart Audit Platform with bot features using Azure Cloud
 - Responsible for building and maintaining infrastructure with model training/serving, deploying models using Kubeflow.
@@ -48,7 +48,7 @@ As a Technology Lead, I thrive at the intersection of legacy modernization and c
 - Managed different RFI/RFC and Cloud/DevOps PoC/MVP demos.
 - Designed Unified DevOps Led Architecture incorporating People, Process, and Technology.
 
-### Deutsche Bank, Senior Analyst [Oct 2017 - Dec 2018] [DBRAS](https://dbras.db.com/)
+### [Deutsche Bank](https://www.db.com/) - Senior Analyst [Oct 2017 - Dec 2018] [DBRAS](https://dbras.db.com/)
 
 - Developed, maintained, and operated 98k+ mobile devices (BYOD + Corporate) with MobileIron and Blackberry Works.
 - Built corporate MacBooks using Jamf.
@@ -56,7 +56,7 @@ As a Technology Lead, I thrive at the intersection of legacy modernization and c
 - Supported macOS Remote Access for VIP clients.
 - Troubleshooting Pulse-Secure VPN & RSA.
 
-### Infosys, Senior System Engineer [June 2013 - June 2017]
+### [Infosys](https://www.infosys.com/) - Senior System Engineer [June 2013 - June 2017] [AMEX](https://www.americanexpress.com/)
 
 - Cloud VM deployment in OpenStack. 
 - ARM template/PowerShell script deployment in Azure Cloud Component.
